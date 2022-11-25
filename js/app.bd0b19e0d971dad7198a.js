@@ -1178,11 +1178,11 @@ webpackJsonp([0], [function(t, e, n) {
                 attrs: {
                     id: "welcome"
                 }
-            }, [n("h1", [t._v("Fire Editor")]), t._v(" "), n("h2", [t._v("To start just drag and drop your file into the browser")]), t._v(" "), n("p", [t._v("Currently the editor can only modify decompressed files. To decompress a file use "), n("a", {
+            }, [n("h1", [t._v("Fire Editor")]), t._v(" "), n("h2", [t._v("To start just drag and drop your file into the browser")]), t._v(" "), n("p", [t._v("Currently the editor can only modify decompressed files. To decompress a file use this site\n"), n("a", {
                 attrs: {
-                    href: "https://github.com/SciresM/FEAST"
+                    href: "./Yet_Another_3DSFE_Save_Decompressor_Leaf_of_tree_on_silent_sea.html"
                 }
-            }, [t._v("FEAST")])]), t._v(" "), n("input", {
+            }, [t._v("Yet Another 3DSFE Save Decompressor - Leaf of tree on silent sea")])]), t._v(" "), n("input", {
                 attrs: {
                     type: "file",
                     id: "fileInput",
