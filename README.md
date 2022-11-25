@@ -11,4 +11,4 @@ https://chrom-sevy.github.io/Fire-Editor/
 
 # misc
 
-I tried to integrate the compression and decompression seamlessly into the fire editor. Turns out I suck at javascript and especially reverse engineering jquery generate javascript.
+I tried to integrate the compression and decompression seamlessly into the fire editor. Turns out I suck at javascript and even more so at reverse engineering jquery generate javascript.
