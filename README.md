@@ -8,7 +8,3 @@ This is the downloaded version of the wayback machine version and links to [@muh
 # page
 
 https://chrom-sevy.github.io/Fire-Editor/
-
-# misc
-
-I tried to integrate the compression and decompression seamlessly into the fire editor. Turns out I suck at javascript and even more so at reverse engineering jquery generated javascript.
